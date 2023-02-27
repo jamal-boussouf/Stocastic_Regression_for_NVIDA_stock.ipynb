@@ -1,0 +1,2 @@
+# Stocastic_Regression_for_NVIDA_stock.ipynb
+Stocastic_Regression_for_NVIDA_stock.ipynb
