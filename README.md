@@ -15,6 +15,6 @@ This study focuses on optimizing investments through stock analysis and predicti
 
 
 ## 🔗 Links
-- Jamal Boussouf[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-boussouf-996a05205/)
+- Jamal Boussouf  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-boussouf-996a05205/)
 
-- Issam Seddik[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issamseddik/)
+- Issam Seddik  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issamseddik/)
