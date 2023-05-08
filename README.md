@@ -1,7 +1,7 @@
 
 # Optimizing Investments: Stock Analysis and Predictive Modeling of NVIDIA Corporation.
 
-This study focuses on optimizing investments through stock analysis and predictive modeling of NVIDIA Corporation. The introduction provides an overview of the stock problem and explains the significance of NVIDIA stock. Data pre-processing techniques are employed to prepare the data for analysis, followed by a thorough exploration of the data through data analysis. The study then utilizes three modeling techniques - logistic regression, PCA, and KNN - to predict the stock prices of NVIDIA Corporation. Finally, the results of the modeling techniques are presented, providing insights into the accuracy of each method and suggesting potential investment strategies for NVIDIA stock.
+This study focuses on optimizing investments through stock analysis and predictive modeling of NVIDIA Corporation. The introduction provides an overview of the stock problem and explains the significance of NVIDIA stock. Data pre-processing techniques are employed to prepare the data for analysis, followed by a thorough exploration of the data through data analysis. The study then utilizes four modeling techniques - logistic regression, PCA, KNN, and LSTM - to predict the stock prices of NVIDIA Corporation. The LSTM model is used to capture temporal dependencies in the data, and is a popular choice for time series prediction tasks. Finally, the results of the modeling techniques are presented, providing insights into the accuracy of each method and suggesting potential investment strategies for NVIDIA stock.
 
 
 ![Logo](https://github.com/jamal-boussouf/Stocastic_Regression_for_NVIDA_stock.ipynb/blob/main/rect1580.png?raw=true)
